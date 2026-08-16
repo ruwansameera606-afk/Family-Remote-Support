@@ -69,7 +69,5 @@ dependencies {
 
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.10.1")
 
-    implementation("org.webrtc:google-webrtc:1.0.32006")
-
     debugImplementation("androidx.compose.ui:ui-tooling")
 }
